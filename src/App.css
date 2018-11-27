@@ -1,0 +1,14 @@
+.Menu {
+  list-style: none;
+  display: flex;
+  background-color: #F4F1EA;
+  color: #483224;
+
+}
+
+
+.Menu li {
+  width: 100px;
+  padding: 10px;
+
+}
